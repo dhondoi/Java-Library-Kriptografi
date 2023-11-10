@@ -5,6 +5,7 @@
 <br />
 <div align="center">
   <h1 align="center">Kriptografi</h1>
+  <img src="images/theory.jpg" alt="Logo" width="400" >
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -33,8 +34,6 @@
 ## About The Prototype
 
 Prototipe kumpulan teknik kriptografi. Kriptografi bisa pula diartikan sebagai suatu ilmu atau seni menjaga keamanan pesan. Untuk mencoba, silahkan gunakan file .jar yang sudah terlampir.
-
-![Theory][theory]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -145,6 +144,7 @@ Prototipe kumpulan teknik kriptografi. Kriptografi bisa pula diartikan sebagai s
 ## Play Fair
 
 ![Play Fair][play-fair]
+
 ![Play Fair][play-fair-2]
 
 ```java
