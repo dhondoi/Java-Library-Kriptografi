@@ -10,7 +10,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details style="margin-top:24px">
-  <summary><h2>Table of Contents</h2></summary>
+  <summary style="font-size:24px;font-weight:600;">Table of Contents</summary>
       <ul>
           <li><a href="#about-the-prototype">About The Prototype</a></li>
           <li><a href="#MonoAlphabet">MonoAlphabet</a></li>
