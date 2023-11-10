@@ -10,9 +10,9 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary style="margin-top: 24px;
-    font-size: 24px;
-    font-weight: 600;">Table of Contents</summary>
+  <summary style="margin-top: 24px !important;
+    font-size: 24px !important;
+    font-weight: 600; !important">Table of Contents</summary>
       <ul>
           <li><a href="#about-the-prototype">About The Prototype</a></li>
           <li><a href="#MonoAlphabet">MonoAlphabet</a></li>
