@@ -9,8 +9,8 @@
 </div>
 
 <!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
+<details style="margin-top:24px">
+  <summary><h2>Table of Contents</h2></summary>
       <ul>
           <li><a href="#about-the-prototype">About The Prototype</a></li>
           <li><a href="#MonoAlphabet">MonoAlphabet</a></li>
